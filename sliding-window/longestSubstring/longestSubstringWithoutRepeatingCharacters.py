@@ -39,4 +39,4 @@ class Solution:
             count = j - i + 1
             max_count = max(count, max_count)
 
-        return count
+        return max_count
